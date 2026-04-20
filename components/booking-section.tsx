@@ -32,6 +32,11 @@ export function BookingSection() {
           >
             <input
               type="hidden"
+              name="_next"
+              value="https://nimarriagesigning.com/thank-you/"
+            />
+            <input
+              type="hidden"
               name="_subject"
               value="New request from North Idaho Marriage Signing"
             />
